@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_module_dependency_install_confirm_system,module.dependency.install.confirm system,model_module_dependency_install_confirm,base.group_system,1,1,1,1
