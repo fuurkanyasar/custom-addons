@@ -1,0 +1,1 @@
+SKIP_DEPENDENCY_CONFIRMATION = "skip_module_dependency_install_confirmation"
